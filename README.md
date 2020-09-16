@@ -1,4 +1,5 @@
 # Predictive Maintenance
+http://predictify.live/
 
 
 # 1. Arduino to collect data from sensors for Predictive Maintenance
@@ -31,7 +32,6 @@
 ## Output after 2000 epochs of training
 ![Result](https://github.com/kashishmadan/predictive-maintenance/blob/master/Images/image2.png)     
 
-##http://predictify.live/
 
 
 # Project for Bristlecone Team 9 
