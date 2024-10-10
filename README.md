@@ -2,8 +2,7 @@
 http://predictify.live/
 
 
-# 1. Arduino to collect data from sensors for Predictive Maintenance
-
+# 1. Real-time Data Collection using various Sensors
 ## Circuit 
 
 ![Circuit](https://github.com/kashishmadan/predictive-maintenance/blob/master/Images/image1.jpeg)
@@ -36,10 +35,10 @@ http://predictify.live/
 
 # Project for Bristlecone Team 9 
 ## Team Members 
-Tarang Goel [@taranggoel]
+Tarang Goel ![@taranggoel](https://github.com/taranggoel)
 
-Jatin Sainani [@jatin-sainani]
+Jatin Sainani ![@jatin-sainani](https://github.com/jatin-sainani)
 
-Kashish Madan [@kashishmadan]
+Kashish Madan ![@kashishmadan](https://github.com/kashishmadan)
 
-Ayush Goyal
+Ayush Goyal ![ayushg162](https://github.com/ayushg162)
